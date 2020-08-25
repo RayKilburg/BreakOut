@@ -7,5 +7,6 @@
 - Game resets on miss
 - Score in top right corner
 - This app uses the HTML5 canvas element and API
+- Break is an arcade game developed by Atari
   <br>
   <img src="img/download.png" alt="drawing" width="200" height="200"/>
