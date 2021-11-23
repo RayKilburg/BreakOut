@@ -10,4 +10,4 @@
 - Break is an arcade game developed by Atari
 
 <br>
-<img src="img/download.png" alt="drawing" width="200" height="200"/>
+<img src="img/1978025.png" alt="drawing" width="200" height="200"/>
